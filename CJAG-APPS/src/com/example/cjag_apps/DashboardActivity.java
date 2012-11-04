@@ -1,4 +1,4 @@
-package com.example.cjagapps;
+package com.example.cjag_apps;
 
 import com.actionbarsherlock.app.SherlockFragmentActivity;
 
