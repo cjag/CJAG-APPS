@@ -23,6 +23,7 @@ tmp
 #eclipse
 .classpath
 .settings
+.project
 
 proguard-project.txt
 
